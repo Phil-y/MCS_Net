@@ -92,7 +92,7 @@ python3 train_model.py
 
 ## Evaluate the Model
 
-###1. Pre-trained Models
+### 1. Pre-trained Models
 
 Here, we provide pre-trained weights of on the four datasets, if you do not want to train the models by yourself, you can download them in this [Google Drive](https://drive.google.com/drive/folders/1ZYxH7EcdyIJCqw16yD9ZvwLJNfJnydP_?usp=sharing).
 
