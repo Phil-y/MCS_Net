@@ -2,7 +2,7 @@
 
 This repository is the official implementation of MCS_Net : All-round enhancements! A Light-weight UNet for Thyroid Nodule Segmentation in ultrasound images using PyTorch.
 
-![MCS-Net](Fig\MCS-Net.png)
+![MCS-Net](Fig/MCS-Net.png)
 
 
 
