@@ -63,7 +63,7 @@ pip install -r requirements.txt
     │   └── Val_Folder
     │       ├── img
     │       └── labelcol
-    └── Chesr X-ray
+    └── Chest X-ray
         ├── Test_Folder
         │   ├── img
         │   └── labelcol
