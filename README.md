@@ -106,15 +106,10 @@ python3 test_model.py
 
 ## Reference
 - [UNet](https://github.com/ZJUGiveLab/UNet-Version)
-- [UNet++](https://github.com/ZJUGiveLab/UNet-Version)
-- [UNet3+](https://github.com/ZJUGiveLab/UNet-Version)
-- [MultiResUNet](https://github.com/makifozkanoglu/MultiResUNet-PyTorch)
 - [TransUNet](https://github.com/Beckschen/TransUNet)
 - [UCTransNet](https://github.com/McGregorWwww/UCTransNet)
 - [ACC_UNet](https://github.com/qubvel/segmentation_models.pytorch)
-- [MEW_UNet](https://github.com/JCruan519/MEW-UNet)
 - [MISSFormer](https://github.com/ZhifangDeng/MISSFormer)
-- [U2Net](https://github.com/NathanUA/U-2-Net)
 
 
 
