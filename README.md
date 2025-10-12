@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ## Prepare the dataset.
 
-- The DDTI and TN3K datasets, can be found here ([GoogleDrive](https://drive.google.com/drive/folders/1za9f38XKx-VYPxxb_xx83Dpk-Wg3Yaw8?usp=sharing)), The GlaS  datasets, can be found here ([GoogleDrive](https://drive.google.com/drive/folders/1bfs6bgVM24fqyjO4aoX7ENi-1xKtNBGc?usp=sharing)), The RITE datasets, can be found here ([GoogleDrive](https://drive.google.com/drive/folders/1Vofe2TSVry0FZYLNisvPKvR_67aSj0ml?usp=sharing)), divided into a 7:1:2 ratio.
+
 
 
 - Then prepare the datasets in the following format for easy use of the code:
@@ -63,7 +63,7 @@ pip install -r requirements.txt
     │   └── Val_Folder
     │       ├── img
     │       └── labelcol
-    └── RITE
+    └── Chesr X-ray
         ├── Test_Folder
         │   ├── img
         │   └── labelcol
@@ -89,12 +89,6 @@ python3 train_model.py
 ```
 
 
-
-## Evaluate the Model
-
-### 1. Pre-trained Models
-
-Here, we provide pre-trained weights of on the four datasets, if you do not want to train the models by yourself, you can download them in this ([Google Drive](https://drive.google.com/drive/folders/1ZYxH7EcdyIJCqw16yD9ZvwLJNfJnydP_?usp=sharing)).
 
 #### 2. Test the Model
 
