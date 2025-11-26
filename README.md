@@ -70,7 +70,37 @@ pip install -r requirements.txt
     │   └── Val_Folder
     │       ├── img
     │       └── labelcol
-    └── Chest X-ray
+    ├── Chest X-ray
+    │   ├── Test_Folder
+    │   │   ├── img
+    │   │   └── labelcol
+    │   ├── Train_Folder
+    │   │   ├── img
+    │   │   └── labelcol
+    │   └── Val_Folder
+    │       ├── img
+    │       └── labelcol
+    ├── CVC-ClinicDB
+    │   ├── Test_Folder
+    │   │   ├── img
+    │   │   └── labelcol
+    │   ├── Train_Folder
+    │   │   ├── img
+    │   │   └── labelcol
+    │   └── Val_Folder
+    │       ├── img
+    │       └── labelcol
+    ├── Kvasir-SEG
+    │   ├── Test_Folder
+    │   │   ├── img
+    │   │   └── labelcol
+    │   ├── Train_Folder
+    │   │   ├── img
+    │   │   └── labelcol
+    │   └── Val_Folder
+    │       ├── img
+    │       └── labelcol
+    └── ISIC2017
         ├── Test_Folder
         │   ├── img
         │   └── labelcol
