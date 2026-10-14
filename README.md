@@ -1,6 +1,6 @@
 # MCS-Net
 
-This repository is the official implementation of MCS-Net: A Lightweight U-Network Based on Fourier Transform for Thyroid Nodule Segmentation using PyTorch.
+
 
 ![MCS-Net](MCS-Net.png)
 
